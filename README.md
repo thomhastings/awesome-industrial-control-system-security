@@ -251,7 +251,7 @@ exploited by a malicious actuator.​
             <a href="https://github.com/v-egoshin/wincc_harvester" target="_blank">WinCC Harvester</a>
         </td>
         <td>
-            WinCC Harvester is a [Metasploit](https://github.com/rapid7/metasploit-framework) module that uses WinCC MS SQL access to harvest sensitive information (users, roles, PLCs) from the Siemens SIMATIC WinCC database.
+            WinCC Harvester is a <a href="https://github.com/rapid7/metasploit-framework" target="_blank">Metasploit</a> module that uses WinCC MS SQL access to harvest sensitive information (users, roles, PLCs) from the Siemens SIMATIC WinCC database.
         </td> 
     </tr>
     <tr>
